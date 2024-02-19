@@ -1,3 +1,9 @@
-﻿phase,type,name,year,time,img_link,web_link
-5,movie,deadpool3,2024,..,./Images/movies/phase5/deadpool3/deadpool3_poster.jpg,https://www.marvel.com/movies/deadpool-3
-5,movie,f4,2025,..,./Images/movies/phase5/f4/f4_poster.jpg,
+﻿phase,type,name,year,time,img_link,web_link,released
+5,movie,deadpool3,2024,..,./Images/movies/phase5/deadpool3/deadpool3_poster.jpg,https://www.marvel.com/movies/deadpool-3,n
+5,movie,f4,2025,..,./Images/movies/phase5/f4/f4_poster.jpg,https://www.marvel.com/movies/fantastic-four,n
+1,movie,ironman,2008,2h 6m,./Images/movies/phase1/ironman/ironman_poster.jpg,https://www.marvel.com/movies/iron-man,y
+1,movie,hulk,2008,1h 52m,./Images/movies/phase1/hulk/hulk_poster.jpg,,
+1,movie,ironman2,2010,2h 4m,./Images/movies/phase1/ironman2/ironman2_poster.jpg,,
+1,movie,thor,2011,1h 54m,./Images/movies/phase1/thor/thor_poster.jpg,,
+1,movie,cap1,2011,2h 4m,./Images/movies/phase1/cap1/cap1_poster.jpg,,
+1,movie,avengers1,2012,2h 23m,./Images/movies/phase1/avengers/avengers_poster.jpg,,
