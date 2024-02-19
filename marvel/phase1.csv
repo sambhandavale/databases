@@ -1,0 +1,7 @@
+﻿phase,type,name,year,time,img_link,web_link,released
+1,movie,ironman,2008,2h 6m,./Images/movies/phase1/ironman/ironman_poster.jpg,https://www.marvel.com/movies/iron-man,y
+1,movie,hulk,2008,1h 52m,./Images/movies/phase1/hulk/hulk_poster.jpg,https://www.marvel.com/movies/the-incredible-hulk,y
+1,movie,ironman2,2010,2h 4m,./Images/movies/phase1/ironman2/ironman2_poster.jpg,https://www.marvel.com/movies/iron-man-2,y
+1,movie,thor,2011,1h 54m,./Images/movies/phase1/thor/thor_poster.jpg,https://www.marvel.com/movies/thor,y
+1,movie,cap1,2011,2h 4m,./Images/movies/phase1/cap1/cap1_poster.jpg,https://www.marvel.com/movies/captain-america-the-first-avenger,y
+1,movie,avengers1,2012,2h 23m,./Images/movies/phase1/avengers/avengers_poster.jpg,https://www.marvel.com/movies/the-avengers,y

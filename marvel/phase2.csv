@@ -1,0 +1,7 @@
+﻿phase,type,name,year,time,img_link,web_link,released
+2,movie,ironman3,2013,2h 11m,./Images/movies/phase2/ironman3/ironman3_poster.jpg,https://www.marvel.com/movies/iron-man-3,y
+2,movie,thor2,2013,1h 52m,./Images/movies/phase2/thor2/thor2_poster.jpg,https://www.marvel.com/movies/thor-the-dark-world,y
+2,movie,cap2,2014,2h 16m,./Images/movies/phase2/cap2/cap2_poster.jpg,https://www.marvel.com/movies/captain-america-the-winter-soldier,y
+2,movie,gotg,2014,2h 2m,./Images/movies/phase2/gotg/gotg_poster.jpg,https://www.marvel.com/movies/guardians-of-the-galaxy,y
+2,movie,avengers2,2015,2h 21m,./Images/movies/phase2/avengers2/avengers2_poster.jpg,https://www.marvel.com/movies/avengers-age-of-ultron,y
+2,movie,antman,2015,1h 57m,./Images/movies/phase2/antman/antman3_poster.jpg,https://www.marvel.com/movies/ant-man,y
