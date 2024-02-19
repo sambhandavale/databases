@@ -1,9 +1,16 @@
 ﻿phase,type,name,year,time,img_link,web_link,released
 5,movie,deadpool3,2024,..,./Images/movies/phase5/deadpool3/deadpool3_poster.jpg,https://www.marvel.com/movies/deadpool-3,n
+5,movie,cap4,2024,..,./Images/movies/phase5/cap4/cap4_poster.jpg,https://www.marvel.com/movies/captain-america-brave-new-world,n
 5,movie,f4,2025,..,./Images/movies/phase5/f4/f4_poster.jpg,https://www.marvel.com/movies/fantastic-four,n
 1,movie,ironman,2008,2h 6m,./Images/movies/phase1/ironman/ironman_poster.jpg,https://www.marvel.com/movies/iron-man,y
-1,movie,hulk,2008,1h 52m,./Images/movies/phase1/hulk/hulk_poster.jpg,,
-1,movie,ironman2,2010,2h 4m,./Images/movies/phase1/ironman2/ironman2_poster.jpg,,
-1,movie,thor,2011,1h 54m,./Images/movies/phase1/thor/thor_poster.jpg,,
-1,movie,cap1,2011,2h 4m,./Images/movies/phase1/cap1/cap1_poster.jpg,,
-1,movie,avengers1,2012,2h 23m,./Images/movies/phase1/avengers/avengers_poster.jpg,,
+1,movie,hulk,2008,1h 52m,./Images/movies/phase1/hulk/hulk_poster.jpg,https://www.marvel.com/movies/the-incredible-hulk,y
+1,movie,ironman2,2010,2h 4m,./Images/movies/phase1/ironman2/ironman2_poster.jpg,https://www.marvel.com/movies/iron-man-2,y
+1,movie,thor,2011,1h 54m,./Images/movies/phase1/thor/thor_poster.jpg,https://www.marvel.com/movies/thor,y
+1,movie,cap1,2011,2h 4m,./Images/movies/phase1/cap1/cap1_poster.jpg,https://www.marvel.com/movies/captain-america-the-first-avenger,y
+1,movie,avengers1,2012,2h 23m,./Images/movies/phase1/avengers/avengers_poster.jpg,https://www.marvel.com/movies/the-avengers,y
+2,movie,ironman3,2013,2h 11m,./Images/movies/phase2/ironman3/ironman3_poster.jpg,https://www.marvel.com/movies/iron-man-3,y
+2,movie,thor2,2013,1h 52m,./Images/movies/phase2/thor2/thor2_poster.jpg,https://www.marvel.com/movies/thor-the-dark-world,y
+2,movie,cap2,2014,2h 16m,./Images/movies/phase2/cap2/cap2_poster.jpg,https://www.marvel.com/movies/captain-america-the-winter-soldier,y
+2,movie,gotg,2014,2h 2m,./Images/movies/phase2/gotg/gotg_poster.jpg,https://www.marvel.com/movies/guardians-of-the-galaxy,y
+2,movie,avengers2,2015,2h 21m,./Images/movies/phase2/avengers2/avengers2_poster.jpg,https://www.marvel.com/movies/avengers-age-of-ultron,y
+2,movie,antman,2015,1h 57m,./Images/movies/phase2/antman/antman3_poster.jpg,https://www.marvel.com/movies/ant-man,y
