@@ -1,9 +1,9 @@
-﻿phase,type,name,year,time,img_link,web_link,released,homepage
-5,movie,antman3,2023,2h 5m,./Images/movies/phase5/antman3/antman3_poster.jpg,https://www.marvel.com/movies/ant-man-and-the-wasp-quantumania,y,n
-5,movie,gotg3,2023,2h 29m,./Images/movies/phase5/gotg3/gotg3_poster.jpg,https://www.marvel.com/movies/guardians-of-the-galaxy-volume-3,y,n
-5,movie,captainmarvel2,2023,1h 45m,./Images/movies/phase5/captainmarvel3/captainmarvel3_poster.jpg,https://www.marvel.com/movies/the-marvels,y,n
-5,movie,deadpool3,2024,..,./Images/movies/phase5/deadpool3/deadpool3_poster.jpg,https://www.marvel.com/movies/deadpool-and-wolverine,n,y
-5,movie,cap4,2025,..,./Images/movies/phase5/cap4/cap4_poster.jpg,https://www.marvel.com/movies/captain-america-brave-new-world,n,y
-5,movie,f4,2025,..,./Images/movies/phase5/f4/f4_poster.jpg,https://www.marvel.com/movies/fantastic-four,n,n
-5,movie,thunderbolts,2025,..,./Images/movies/phase5/thuderbolts/thuderbolts_poster.jpg,https://www.marvel.com/movies/thunderbolts,n,y
-5,movie,blade,2025,..,./Images/movies/phase5/blade/blade_poster.jpg,https://www.marvel.com/movies/blade,n,n
+﻿phase,type,name,year,time,img_link,web_link,released,homepage,moviepage
+5,movie,antman3,2023,2h 5m,./Images/movies/phase5/antman3/antman3_poster.jpg,https://www.marvel.com/movies/ant-man-and-the-wasp-quantumania,y,n,y
+5,movie,gotg3,2023,2h 29m,./Images/movies/phase5/gotg3/gotg3_poster.jpg,https://www.marvel.com/movies/guardians-of-the-galaxy-volume-3,y,n,y
+5,movie,captainmarvel2,2023,1h 45m,./Images/movies/phase5/captainmarvel3/captainmarvel3_poster.jpg,https://www.marvel.com/movies/the-marvels,y,n,y
+5,movie,deadpool3,2024,..,./Images/movies/phase5/deadpool3/deadpool3_poster.jpg,https://www.marvel.com/movies/deadpool-and-wolverine,n,y,n
+5,movie,cap4,2025,..,./Images/movies/phase5/cap4/cap4_poster.jpg,https://www.marvel.com/movies/captain-america-brave-new-world,n,y,n
+5,movie,f4,2025,..,./Images/movies/phase5/f4/f4_poster.jpg,https://www.marvel.com/movies/fantastic-four,n,n,n
+5,movie,thunderbolts,2025,..,./Images/movies/phase5/thuderbolts/thuderbolts_poster.jpg,https://www.marvel.com/movies/thunderbolts,n,y,n
+5,movie,blade,2025,..,./Images/movies/phase5/blade/blade_poster.jpg,https://www.marvel.com/movies/blade,n,n,n
