@@ -1,0 +1,62 @@
+[
+    {
+        "phase":1,
+        "type":"movie",
+        "name":"ironman",
+        "year":2008,
+        "time":"2h 6m",
+        "img_link":"./Images/movies/phase1/ironman/ironman_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/iron-man",
+        "released":"y"
+    },
+    {
+        "phase":1,
+        "type":"movie",
+        "name":"hulk",
+        "year":2008,
+        "time":"1h 52m",
+        "img_link":"./Images/movies/phase1/hulk/hulk_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/the-incredible-hulk",
+        "released":"y"
+    }
+    {
+        "phase":1,
+        "type":"movie",
+        "name":"ironman2",
+        "year":2010,
+        "time":"2h 4m",
+        "img_link":"./Images/movies/phase1/ironman2/ironman2_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/iron-man-2",
+        "released":"y"
+    },
+    {
+        "phase":1,
+        "type":"movie",
+        "name":"thor",
+        "year":2011,
+        "time":"1h 54m",
+        "img_link":"./Images/movies/phase1/thor/thor_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/thor",
+        "released":"y"
+    },
+    {
+        "phase":1,
+        "type":"movie",
+        "name":"cap1",
+        "year":2011,
+        "time":"2h 4m",
+        "img_link":"./Images/movies/phase1/cap1/cap1_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/captain-america-the-first-avenger",
+        "released":"y"
+    },
+    {
+        "phase":1,
+        "type":"movie",
+        "name":"avengers1",
+        "year":2012,
+        "time":"2h 23m",
+        "img_link":"./Images/movies/phase1/avengers1/avengers1_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/the-avengers",
+        "released":"y"
+    }
+]
