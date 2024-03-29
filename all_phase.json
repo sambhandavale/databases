@@ -1,0 +1,134 @@
+[
+    {
+        "phase":1,
+        "type":"movie",
+        "name":"ironman",
+        "full_name":"Ironman",
+        "year":2008,
+        "time":"2h 6m",
+        "img_link":"./Images/movies/phase1/ironman/ironman_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/iron-man",
+        "released":"y"
+    },
+    {
+        "phase":1,
+        "type":"movie",
+        "name":"hulk",
+        "full_name":"Incredible Hulk",
+        "year":2008,
+        "time":"1h 52m",
+        "img_link":"./Images/movies/phase1/hulk/hulk_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/the-incredible-hulk",
+        "released":"y"
+    },
+    {
+        "phase":1,
+        "type":"movie",
+        "name":"ironman2",
+        "full_name":"Ironman 2",
+        "year":2010,
+        "time":"2h 4m",
+        "img_link":"./Images/movies/phase1/ironman2/ironman2_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/iron-man-2",
+        "released":"y"
+    },
+    {
+        "phase":1,
+        "type":"movie",
+        "name":"thor",
+        "full_name":"Thor",
+        "year":2011,
+        "time":"1h 54m",
+        "img_link":"./Images/movies/phase1/thor/thor_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/thor",
+        "released":"y"
+    },
+    {
+        "phase":1,
+        "type":"movie",
+        "name":"cap1",
+        "full_name":"Captain America: First Avengers",
+        "year":2011,
+        "time":"2h 4m",
+        "img_link":"./Images/movies/phase1/cap1/cap1_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/captain-america-the-first-avenger",
+        "released":"y"
+    },
+    {
+        "phase":1,
+        "type":"movie",
+        "name":"avengers1",
+        "full_name":"The Avengers",
+        "year":2012,
+        "time":"2h 23m",
+        "img_link":"./Images/movies/phase1/avengers1/avengers1_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/the-avengers",
+        "released":"y"
+    },
+    {
+        "phase":2,
+        "type":"movie",
+        "name":"ironman3",
+        "full_name":"Iron man 3",
+        "year":2013,
+        "time":"2h 11m",
+        "img_link":"./Images/movies/phase2/ironman3/ironman3_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/iron-man-3",
+        "released":"y"
+    },
+    {
+        "phase":2,
+        "type":"movie",
+        "name":"thor2",
+        "full_name":"Thor:The Dark World",
+        "year":2013,
+        "time":"1h 52m",
+        "img_link":"./Images/movies/phase2/thor2/thor2_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/thor-the-dark-world",
+        "released":"y"
+    },
+    {
+        "phase":2,
+        "type":"movie",
+        "name":"cap2",
+        "full_name":"Captain America: The Winter Soldier",
+        "year":2014,
+        "time":"2h 16m",
+        "img_link":"./Images/movies/phase2/cap2/cap2_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/captain-america-the-winter-soldier",
+        "released":"y"
+    },
+    {
+        "phase":2,
+        "type":"movie",
+        "name":"gotg1",
+        "full_name":"Guardians of the Galaxy",
+        "year":2014,
+        "time":"2h 2m",
+        "img_link":"./Images/movies/phase2/gotg/gotg_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/guardians-of-the-galaxy",
+        "released":"y"
+    },
+    {
+        "phase":2,
+        "type":"movie",
+        "name":"avengers2",
+        "full_name":"Avengers: Age of Ultron",
+        "year":2015,
+        "time":"2h 21m",
+        "img_link":"./Images/movies/phase2/avengers2/avengers2_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/avengers-age-of-ultron",
+        "released":"y"
+    },
+    {
+        "phase":2,
+        "type":"movie",
+        "name":"antman",
+        "full_name":"Ant-man",
+        "year":2015,
+        "time":"1h 57m",
+        "img_link":"./Images/movies/phase2/antman/antman_poster.jpg",
+        "web_link":"https://www.marvel.com/movies/ant-man",
+        "released":"y"
+    }
+]
